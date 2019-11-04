@@ -12,6 +12,7 @@ Airport Challenge
                 =  ===(_________)
 
 ```
+Stories Completed
 
 Instructions
 ---------
